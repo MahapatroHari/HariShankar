@@ -15,7 +15,7 @@ This is a React-based portfolio application showcasing various projects and deve
 - **Vite:** Fast build tool for React apps.
 - **React Router:** For handling navigation.
 - **React Transition Group:** For animations.
-- **Tailwind CSS (optional):** Utility-first CSS framework (if used).
+- **Tailwind CSS**.
 
 ## Installation
 
